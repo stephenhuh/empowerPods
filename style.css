@@ -197,9 +197,11 @@ a {
 }
 
 .details {
+    margin-top: 20px; 
     display: flex;
     flex-direction: row;
-    justify-content: space-around; 
+    justify-content: space-around;
+    text-align: center;
 }
 
 .download {
