@@ -1,0 +1,23 @@
+{
+  "name": "empowerpods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenhuh/empowerPods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenhuh/empowerPods/issues"
+  },
+  "homepage": "https://github.com/stephenhuh/empowerPods#readme",
+  "dependencies": {
+    "redis": "^2.7.1",
+    "usb-detection": "^1.4.0"
+  }
+}
