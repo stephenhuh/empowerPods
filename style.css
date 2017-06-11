@@ -3,7 +3,16 @@ body {
     font-family: Avenir;
     font-size: 20px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    width: 500px;
+    height: auto;
 }
 
 #categories {
@@ -11,21 +20,81 @@ body {
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin: 100px;
+    margin: 0px 200px 100px 200px;
 }
 
 .box {
-    background-color: #FF715B;
-    box-shadow: 5px 5px 5px #000;
+    /*background-color: #FF715B;*/
+    /*box-shadow: 5px 5px 5px #000;*/
     border-radius: 15px;
+    border: 3px solid transparent;
     width: 300px;
     height: 150px;
     text-align: center;
     color: white;
-    font-size: 50px;
-    margin: 25px;
+    font-size: 40px;
+    margin: 15px;
     padding: 40px 0px 0px 0px;
 }
+
+
+
+#box1 {
+    background-color: #FF7056;
+}
+#box1:hover {
+    border: 3px solid #FF7056;
+    color: #FF7056;
+    cursor: pointer;
+    background-color: white;
+}
+
+#box2 {
+    background-color: #FACC2B;
+}
+#box2:hover {
+    border: 3px solid #FACC2B;
+    color: #FACC2B;
+    cursor: pointer;
+    background-color: white;
+}
+#box3 {
+    background-color: #00A3B2;
+}
+#box3:hover {
+    border: 3px solid #00A3B2;
+    color: #00A3B2;
+    cursor: pointer;
+    background-color: white;
+}
+#box4 {
+    background-color: #85BCA1;
+}
+#box4:hover {
+    border: 3px solid #85BCA1;
+    color: #85BCA1;
+    cursor: pointer;
+    background-color: white;
+}
+#box5 {
+    background-color: #9F478B;
+}
+#box5:hover {
+    border: 3px solid #9F478B;
+    color: #9F478B;
+    cursor: pointer;
+    background-color: white;
+}
+#box6 {
+    background-color: #FF5A94;
+}
+#box6:hover {
+    border: 3px solid #FF7056;
+    color: #FF7056;
+    cursor: pointer;
+    background-color: white;
+}
+
 
 button {
     background-color: #4C5B5C;
