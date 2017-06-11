@@ -14,6 +14,8 @@ More than 3 million school-age child refugees have no school to attend
 
 -Girls film videos sharing in their own words what they are learning, interviews of other girls and women in their connunity and other activities. These videos are shared with other pods connecting these communities of girls learning about the same thing.
 
+-Girls learning the same topic can connect with eachother and view user generated content in Facebook groups
+
 -In circumstances where there is limited or no internet connection availible, the pods have stored content which can continue to engage and educate girls. When internet becomes available, videos that the girls have selected to share are sent to the other pods.
 
 -the pod creates a community, has positive content and reminds the girls that there is hope for a brighter future outside of the refugee camp
