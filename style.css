@@ -179,7 +179,35 @@ button {
 }
 
 a {
-    text-decoration: none; 
+    text-decoration: none;
+}
+
+#expanded {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #FF7056;
+}
+
+.lessonheader {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lessontext {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.details {
+    margin-top: 20px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
 }
 
 .download {
