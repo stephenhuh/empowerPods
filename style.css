@@ -1,6 +1,9 @@
 body {
-    background-color: #4C5B5C;
+    background-color: #FFF;
     font-family: Avenir;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 #categories {
@@ -22,4 +25,45 @@ body {
     font-size: 50px;
     margin: 25px;
     padding: 40px 0px 0px 0px;
+}
+
+button {
+    background-color: #4C5B5C;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px 25px 10px 25px;
+    font-family: Avenir;
+}
+
+.questionbox {
+    text-align: center;
+    background-color: #7DC2C8;
+    width: 800px;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 200px;
+    color: white;
+}
+
+#language {
+    width: 250px;
+    height: 35px;
+    font-size: 25px;
+    font-family: Avenir;
+}
+
+#country_code {
+    width: 30px;
+    height: 28px;
+    font-size: 20px;
+    font-family: Avenir;
+}
+
+#phone_number {
+    width: 150px;
+    height: 28px;
+    font-size: 20px;
+    font-family: Avenir;
 }
