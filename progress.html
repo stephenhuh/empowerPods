@@ -4,12 +4,21 @@
   <title> EmpowerPod Menu </title>
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Avenir">
   <link rel="stylesheet" href="style.css">
-  <script src="js/jquery-2.1.4.min.js"></script>
-  <script src="js/isotope.pkgd.min.js"></script>
-  <script>
+  <script src="node_modules/progressbar.js/dist/progressbar.min.js"></script>
+  <script src="node_modules/progressbar.js/dist/progressbar.js"></script>
+  <script src="node_modules/progressbar.js/dist/progressbar.js">
   var ProgressBar = require('progressbar.js');
-  var bar = new ProgressBar.Line('#container', {easing: 'easeInOut'});
-  bar.animate(1);  // Value from 0.0 to 1.0
+  var bar = new ProgressBar.Line(container, {
+  strokeWidth: 4,
+  easing: 'easeInOut',
+  duration: 1400,
+  color: '#FFEA82',
+  trailColor: '#eee',
+  trailWidth: 1,
+  svgStyle: {width: '100%', height: '100%'}
+    });
+  bar.animate(1.0);  // Number from 0.0 to 1.0
+
   </script>
 </head>
 
@@ -17,7 +26,7 @@
 
 <img src = "logo.png">
 
-<div id="container"></div>
+<div id="container">hello</div>
 
 </body>
 
