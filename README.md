@@ -28,6 +28,11 @@ Figuring out how to identify different phones that connect to the computer, deve
 
 We learned so much about refugee campus and more about the typical  timeline of refugee girls
 
+### What's next for EmpowerPods
+
+Eventually having girls teach girls. Reviewing the videos that the girls send with what they've learned so that the content that the girls watch can have more user developed content in it.
+
+Distributing pods to at risk locations so that girls can get introduced to the pod system and know to find a pod if they find themselves at a refugee camp. Also connects girls in camps to normal girls.
 
 ### How we built it
 
