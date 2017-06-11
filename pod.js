@@ -33,7 +33,7 @@ let devicesInMemory = [];
 usbdetection.on('add', function(device) {
   //SAVE an array of device ids
   console.log(device);
-  opn("http://localhost:3000"); //TODO: hacky urls
+  opn("file:///Users/stephen/sites2/empowerPods/register.html"); //TODO: hacky urls
   devicesInMemory.push(device);
   askForRegistrationCmd(null, device, function(response){
     console.log("at the callback");
