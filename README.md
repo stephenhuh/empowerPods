@@ -22,7 +22,12 @@ None of us have Android phones, wanted to be able to sync wirelessly, can't auto
 
 ### Accomplishments we're proud of
 
-FIguring out how to identify different phones that connect to the computer, developing a really slick UI and good idea, 
+Figuring out how to identify different phones that connect to the computer, developing a really slick UI and good idea, 
+
+### What we learned
+
+We learned so much about refugee campus and more about the typical  timeline of refugee girls
+
 
 ### How we built it
 
