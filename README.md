@@ -2,6 +2,8 @@
 
 ## created for ChimeHack4
 
+## Check out the Facebook group page at http://wwww.facebook.com/groups/empowerpods
+
 ### Inspiration
 
 Inspired by the difficulties of refugee girls in finding a community and continuing their education, we developed EmpowerPods to create a community of girls that can connect
