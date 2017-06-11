@@ -96,6 +96,12 @@ img {
 }
 
 
+#container-load {
+  margin: 20px;
+  width: 400px;
+  height: 8px;
+}
+
 button {
     background-color: #4C5B5C;
     border-radius: 20px;
