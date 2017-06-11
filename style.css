@@ -1,0 +1,25 @@
+body {
+    background-color: #4C5B5C;
+    font-family: Avenir;
+}
+
+#categories {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 100px;
+}
+
+.box {
+    background-color: #FF715B;
+    box-shadow: 5px 5px 5px #000;
+    border-radius: 15px;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin: 25px;
+    padding: 40px 0px 0px 0px;
+}
